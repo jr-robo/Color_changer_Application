@@ -32,5 +32,9 @@
   },
   "engines": {
     "node": ">=18"
-  }
+  },
+  "description": "its is just simple color changer android application. ",
+  "main": "index.js",
+  "author": "jeevan",
+  "license": "ISC"
 }
